@@ -13,7 +13,7 @@
                 <p class="styleColorIII poppins-semibold">US.</p>
                 <div class="bodyPrice">
                     <button class="button type1">
-                        <a href="https://discord.gg/TMmVw5KS" target="_blank"> <span class="btn-txt poppins-semibold">{{ $t('join') }}</span></a>
+                        <a href="https://discord.gg/JEfbsPkqrd" target="_blank"> <span class="btn-txt poppins-semibold">{{ $t('join') }}</span></a>
                       </button>
                 </div>
             </div>
